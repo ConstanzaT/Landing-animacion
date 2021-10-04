@@ -1,5 +1,6 @@
 # Landing-animacion
-Landing Page con animaciones y transiciones CSS
+<p>Landing Page con animaciones y transiciones CSS.
+<p><a href="https://constanzat.github.io/Landing-animacion/" target="_blank" target="blank" />Puedes ver el proyecto terminado en este link</a></p>
 
 <h2>Diseño</h2>
 
